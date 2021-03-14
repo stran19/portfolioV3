@@ -1,0 +1,106 @@
+nav {
+  position: relative;
+  overflow: hidden;
+  background-color: #37b9f1;
+}
+
+nav a {
+  float: left;
+  text-align: center;
+  color: #f2f5f5;
+  text-decoration: none;
+  font-size: 18px;
+  padding: 14px 16px;
+}
+
+nav a:hover {
+  background-color: #8739f9;
+}
+
+#hppage {
+  background-image: url(hogwartz.jpg);
+  text-align: left;
+  -webkit-background-size: cover;
+  background-size: cover;
+  margin: 0;
+}
+
+#first {
+  margin:0;
+  font-family: Arial;
+  background-image: url("wblogo.jpg");
+  
+}
+
+#intro {
+  text-align: center;
+  font-size: 56px;
+  color: #f2f5f5;
+}
+
+#introhp {
+  color: #f2f5f5;
+  text-align: center;
+  padding: 5px 10px;
+  font-size: 48px;
+  font-family: 'Shadows Into Light', cursive;
+}
+
+#hp {
+  margin: 0 5em;
+  color: #f2f5f5;
+  font-size: 24px;
+  font-family: 'Shadows Into Light', cursive;
+}
+
+#hat {
+  float: right;
+  margin: 10px 15px 10px 10px;
+}
+
+#lotrbody {
+  background-image: url(lofr.jpg);
+  text-align: left;
+  -webkit-background-size: cover;
+  background-size: cover;
+  margin: 0;
+}
+
+#lotr {
+  color: #f2f5f5;
+  text-align: center;
+  padding: 5px 10px;
+  font-size: 48px;
+  font-family: 'Lobster', cursive;
+font-family: 'Redressed', cursive;
+}
+
+#lotrp {
+  margin: 0 5em;
+  color: #f2f5f5;
+  font-size: 24px;
+  font-family: 'Lobster', cursive;
+font-family: 'Redressed', cursive;
+}
+
+#conjuringbody {
+  background-image: url(conjuring.jpg);
+  text-align: left;
+  -webkit-background-size: cover;
+  background-size: cover;
+  margin: 0;
+}
+
+#introc {
+  color: #f2f5f5;
+  text-align: center;
+  padding: 5px 10px;
+  font-size: 48px;
+}
+
+#conjuring-paragraph {
+  margin: 0 5em;
+  color: #f2f5f5;
+  font-size: 24px;
+  font-family: 'Redressed', cursive;
+}
